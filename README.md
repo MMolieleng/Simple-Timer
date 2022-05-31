@@ -1,6 +1,6 @@
-# Running the Project
-
 ![Screenshot](./Screenshot%202022-06-01%20at%2000.44.21.png)
+
+# Running the Project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
